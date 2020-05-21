@@ -1,0 +1,124 @@
+{
+    "port": 3000,
+    "address": "https://a5ed89c9-fc9f-4285-bd90-9ff5e93b88e6.ws-us02.gitpod.io",
+    "editor": "gitpod",
+    "configPath": {
+        "config": "learn.json",
+        "base": ".learn",
+        "exercises": "./exercises",
+        "output": ".learn/dist"
+    },
+    "outputPath": "./.learn/dist",
+    "publicPath": "/preview",
+    "grading": "isolated",
+    "ignoreRegex": null,
+    "webpack_template": null,
+    "disable_grading": false,
+    "onCompilerSuccess": null,
+    "language": "node",
+    "compiler": "python3",
+    "tester": "pytest",
+    "actions": [
+        "run",
+        "test",
+        "reset"
+    ],
+    "difficulty": "beginner",
+    "duration": 4,
+    "description": "Learn how objects and classes work and why they are so usefull n coding.",
+    "title": "Object Oriented Programing In Python",
+    "slug": "object-oriented-programing-in-python",
+    "session": 4286184349934192000,
+    "exercises": [
+        {
+            "slug": "01-introduction",
+            "title": "01-introduction",
+            "done": false,
+            "path": "exercises/01-introduction",
+            "translations": [
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "02-instance-of-datetime",
+            "title": "02-instance-of-datetime",
+            "done": false,
+            "path": "exercises/02-instance-of-datetime",
+            "translations": [
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "03-Create-new-class",
+            "title": "03-Create-new-class",
+            "done": false,
+            "path": "exercises/03-Create-new-class",
+            "translations": [
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "04-Define-your-first-properties",
+            "title": "04-Define-your-first-properties",
+            "done": false,
+            "path": "exercises/04-Define-your-first-properties",
+            "translations": [
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "05-Constructor-Params",
+            "title": "05-Constructor-Params",
+            "done": false,
+            "path": "exercises/05-Constructor-Params",
+            "translations": [
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "06-Hello-world-with-classes",
+            "title": "06-Hello-world-with-classes",
+            "done": false,
+            "path": "exercises/06-Hello-world-with-classes",
+            "translations": [
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "07-Print-with-Class-Printer",
+            "title": "07-Print-with-Class-Printer",
+            "done": false,
+            "path": "exercises/07-Print-with-Class-Printer",
+            "translations": [
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "08-Create-simple-class",
+            "title": "08-Create-simple-class",
+            "done": false,
+            "path": "exercises/08-Create-simple-class",
+            "translations": [
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "09-Calculated-property",
+            "title": "09-Calculated-property",
+            "done": false,
+            "path": "exercises/09-Calculated-property",
+            "translations": [
+                "us"
+            ],
+            "graded": false
+        }
+    ]
+}
