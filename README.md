@@ -1,1 +1,1 @@
-# Object Oriented Programing in Python
+# Object Oriented Programing in Javascript
