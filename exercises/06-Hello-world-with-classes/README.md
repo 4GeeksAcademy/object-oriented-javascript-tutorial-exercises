@@ -20,6 +20,15 @@ In this particular exercise (on the left), you have a class called Printer alrea
 
 ## 📝 Instructions
 
-Create a new object instance of the class Printer and assign it to a variable called `myPrinter`.
+- Create a new object instance of the class Printer and assign it to a variable called `myPrinter`.
 
-Call the function `printerTest` of the class Printer and store the result in a variable called `testResult`
+- Call the function `printerTest` of the class Printer and store the result in a variable called `testResult`
+
+- Print on the console the variable `testResult` 
+
+The output should be something like this:
+
+```txt
+My brand is Epson and my model TX-200
+
+```
