@@ -14,7 +14,7 @@ The following class Person has the function getAge to calculate a person's age.
 
 ## 📝 Instructions
 
-Please create a new function called "canDrinkAlcohol" that returns a boolean true or false depending on the person's legal right to drink alcohol.
+- Please create a new function called `canDrinkAlcohol` that returns a boolean true or false depending on the person's legal right to drink alcohol.
 
 ## 💡 Hint
 
