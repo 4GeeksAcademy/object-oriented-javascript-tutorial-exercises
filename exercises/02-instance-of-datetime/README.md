@@ -12,7 +12,7 @@ console.log(d);
 ## 📝 Instructions
 
 Create a new Date object with format month-day-year and print it on the console like this:
-Today is: 8-23-2018
+`Today is: 8-23-2018`
 
 
 ## 💡 Hint:
