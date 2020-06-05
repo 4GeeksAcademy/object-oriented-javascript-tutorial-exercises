@@ -13,7 +13,7 @@ class ClassName{
 
 ## 📝 Instructions
 
-Using the camelCase naming convention, add the following properties to the Person class:
+Using the `camelCase` naming convention, add the following properties to the Person class:
 
 ```txt
 Name: Bob

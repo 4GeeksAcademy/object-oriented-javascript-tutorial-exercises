@@ -21,5 +21,9 @@ Fill the content of the class Counter to make it behave as expected.
 
 If your class behaves as expected, the output in the console should be:
 
-
+```txt
+1
+3
+1
+```
 

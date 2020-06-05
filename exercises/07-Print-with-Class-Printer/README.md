@@ -21,10 +21,16 @@ class MyClass{
 
 ## 📝 Instructions
 
-Please write a second function called "getModel" that returns the current printer model.
+- Please write a second function called "getModel" that returns the current printer model.
 
 
 ## 💡 HINT
 
 Declare the new function inside the class Printer.
 The function needs to return the content of the _model variable.
+
+The console should print something like this:
+```txt
+The model of the printer is: TX-200
+
+```

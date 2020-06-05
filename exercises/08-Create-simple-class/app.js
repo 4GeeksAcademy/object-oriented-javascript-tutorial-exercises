@@ -1,7 +1,7 @@
 class Counter{
 	constructor(){
 		//initialization of the counter variable
-		this.counter = 0;
+		
 	}
 	increaseOne(){
 		//increase the value in one
