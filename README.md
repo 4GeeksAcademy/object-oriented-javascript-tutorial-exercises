@@ -28,18 +28,23 @@ I strongly recommend doing this tutorials in this order:
 
 ## Local Installation
 
-1) Make sure you have the [breathecode-cli](https://github.com/breatheco-de/breathecode-cli) installed and `node.js` version 10+ and python version 3+. This is the command to install the breathecode-cli
-```
-$ npm i breathecode-cli -g
+1) Make sure you have [learnpack](https://github.com/learnpack/learnpack-cli) installed and `node.js` version 12+. This is the command to install learnpack
+```sh
+$ npm i learnpack -g
 ```
 
-2) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory "exercises" that contains all the exercises within.
-
-3) Start the tutorial/exercises by running the following command from the root of the project:
+2) Install the node compiler for learnpack and jest package for unit testing:
 
 ```sh
-$ npm i jest@24.8.0
-$ breathecode run
+$ learnpack plugins:install learnpack-node && npm i jest@24.8.0 -g
+```
+
+3) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory "exercises" that contains all the exercises within.
+
+4) Start the tutorial/exercises by running the following command from the root of the project:
+
+```sh
+$ learnpack run
 ```
 
 ## How are the exercises organized?
