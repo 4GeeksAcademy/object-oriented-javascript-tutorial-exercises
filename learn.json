@@ -1,28 +1,10 @@
 {
-    "port": 3000,
-    "address": "https://c3a9ab97-1679-448f-b67c-17e2571749b3.ws-us03.gitpod.io",
-    "editor": "gitpod",
-    "configPath": {
-        "config": "learn.json",
-        "base": ".learn",
-        "exercises": "./exercises",
-        "output": ".learn/dist"
-    },
-    "outputPath": "./.learn/dist",
-    "publicPath": "/preview",
-    "grading": "isolated",
-    "disable_grading": false,
     "language": "node",
-    "compiler": "python3",
-    "tester": "jest",
-    "actions": [
-        "run",
-        "test",
-        "reset"
-    ],
     "difficulty": "beginner",
+    "repository": "https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises",
     "duration": 4,
     "description": "Learn how objects and classes work and why they are so usefull n coding.",
     "title": "Object Oriented Programing In Python",
-    "slug": "object-oriented-programing-in-python"
+    "slug": "object-oriented-programing-in-python",
+    "skills": ["algorithms"]
 }
