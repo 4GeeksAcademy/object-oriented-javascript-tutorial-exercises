@@ -10,15 +10,20 @@ function calculateAge(birthday) { // birthday is a date
 }
 ```
 
-The following class Person has the function getAge to calculate a person's age.
+## 📝 Instructions:
 
-## 📝 Instructions
+The following class `Person` has the function getAge to calculate a person's age.
 
-- Please create a new function called `canDrinkAlcohol` that returns a boolean true or false depending on the person's legal right to drink alcohol.
+1. Please create a new function called `canDrinkAlcohol` that returns a boolean `true` or `false` depending on the person's legal right to drink alcohol.
 
-## 💡 Hint
+## 💡 Hint:
 
-- Inside of the canDrinkAlcohol function, you can call and use the getAge function by writing:
-let age = this.getAge();
+- Inside of the `canDrinkAlcohol` function, you can call and use the `getAge` function by writing:
+```js
+
+let age = this.getAge()
+```
+
 - return true if age is greater than or equal to 21
+
 - return false otherwise
