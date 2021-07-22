@@ -1,6 +1,6 @@
 # `05` Constructor Params
 
-Every class comes with a magic function called `onstructor` that gets called whenever a new instance of that class is created.
+Every class comes with a magic function called `constructor` that gets called whenever a new instance of that class is created.
 
 Right now, all objects of the class `Person` will be named Bob because it is hard-coded on the `constructor` function that way. 
 
