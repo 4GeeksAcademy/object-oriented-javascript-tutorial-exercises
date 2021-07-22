@@ -20,7 +20,6 @@ class MyClass{
 }
 ```
 
-
 ## 📝 Instrucciones:
 
 1. Por favor escribe una segunda función llamada `getModel` que retorne/devuelva el modelo de la impresora actual.
