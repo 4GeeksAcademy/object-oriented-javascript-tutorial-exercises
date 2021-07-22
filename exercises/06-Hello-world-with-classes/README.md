@@ -16,7 +16,7 @@ class ClassName {
 } 
 ```
 
-In this particular exercise (on the left), you have a class called Printer already declared.
+In this particular exercise (on the left), you have a class called `Printer` already declared.
 
 ## 📝 Instructions
 
@@ -26,7 +26,7 @@ In this particular exercise (on the left), you have a class called Printer alrea
 
 - Print on the console the variable `testResult` 
 
-The output should be something like this:
+### Expected result:
 
 ```txt
 My brand is Epson and my model TX-200

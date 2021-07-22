@@ -11,9 +11,9 @@ class ClassName{
 ```
 
 
-## 📝 Instructions
+## 📝 Instructions:
 
-Using the `camelCase` naming convention, add the following properties to the Person class:
+1. Using the `camelCase` naming convention, add the following properties to the Person class:
 
 ```txt
 Name: Bob
