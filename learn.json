@@ -7,5 +7,10 @@
     "description": "Learn how objects and classes work and why they are so usefull n coding.",
     "title": "Object Oriented Programing In Javascript",
     "slug": "object-oriented-programing-in-javascript",
-    "skills": ["algorithms"]
+    "skills": ["algorithms"],
+    "config": {
+        "editor": {
+            "version": "1.0.68"
+        }
+    }
 }
