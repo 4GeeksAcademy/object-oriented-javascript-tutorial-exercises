@@ -10,7 +10,7 @@
 
 Este tutorial es parte de un grupo más grande de tutoriales sobre desarrollo web, este repositorio se enfoca solo en Programación Orientada a Objetos.
 
-Puedes [comenzar el tutorial en línea](#instalación-en-un-solo-clic) en solo 10 segundos o [descargar los archivos fuente](#instalación-local) para hacerlo localmente.
+#### Antes de empezar...Algunos tutoriales realcionados
 
 1. [Introducción a HTML](https://github.com/4GeeksAcademy/html-tutorial-exercises-course)
 2. [Introducción a CSS](https://github.com/4GeeksAcademy/css-tutorial-exercises-course)
@@ -18,6 +18,8 @@ Puedes [comenzar el tutorial en línea](#instalación-en-un-solo-clic) en solo 1
 4. [Introducción a The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
 5. [Utilizando eventos & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
 6. [Programación Orientada a Objetos](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises) ← you are here now 🔥
+
+Puedes [comenzar el tutorial en línea](#instalación-en-un-solo-clic) en solo 10 segundos o [descargar los archivos fuente](#instalación-local) para hacerlo localmente.
 
 ## Instalación en un solo clic:
 
