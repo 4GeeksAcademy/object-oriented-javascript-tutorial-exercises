@@ -47,6 +47,8 @@ $ learnpack plugins:install learnpack-node && npm i jest@24.8.0 -g
 $ learnpack run
 ```
 
+Nota: Estos ejercicios tienen calificación automática pero es un tanto rígida, te recomiendo ignorar los tests, considéralos como una recomendación o podrías frustrarte.
+
 ## ¿Cómo están organizados los ejercicios?
 
 Cada ejercicio es una pequeña aplicación de react que contiene los siguientes archivos:
