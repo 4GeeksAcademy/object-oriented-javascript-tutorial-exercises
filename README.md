@@ -21,14 +21,13 @@ I strongly recommend doing this tutorials in this order:
 5. [Using events & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
 6. [Object Oriented Programming](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises) ← you are here now 🔥
 
-<h2>One click installation:</h2>
+## One click installation:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises.git)
 
-
 ## Local Installation
 
-1) Make sure you have [learnpack](https://github.com/learnpack/learnpack-cli) installed and `node.js` version 12+. This is the command to install learnpack
+1) Make sure you have [learnpack](https://github.com/learnpack/learnpack-cli) installed and `node.js` version 14+. This is the command to install learnpack
 ```sh
 $ npm i learnpack -g
 ```
@@ -61,9 +60,8 @@ Each exercise is a small react application containing the following files:
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) :computer: (idea) 🤔, (build-tests) :warning:, (pull-request-review) :eyes: (build-tutorial) :white_check_mark: (documentation) :book:
-2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) :bug:, contribution: (coder), (translation) :earth_americas:
+1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻  (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 👀 (build-tutorial) ✅ (documentation) 📖
 
-This project follows the
-[all-contributors](https://github.com/kentcdodds/all-contributors)
-specification. Contributions of any kind are welcome!
+2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, contribution: (coder), (translation) 🌎
+
+This project follows the[all-contributors](https://github.com/kentcdodds/all-contributors) specification.Contributions of any kind are welcome!
