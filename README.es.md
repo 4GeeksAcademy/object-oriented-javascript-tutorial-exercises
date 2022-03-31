@@ -27,13 +27,13 @@ Puedes [comenzar el tutorial en línea](#instalación-en-un-solo-clic) en solo 1
 
 ## Instalación local
 
-1) Aségurate de instalar [learnpack](https://github.com/learnpack/learnpack-cli) y `node.js` version 14+. Este es el comando para instalar learnpack:
+1) Asegúrate de instalar [learnpack](https://github.com/learnpack/learnpack-cli) y `node.js` version 14+. Este es el comando para instalar learnpack:
 
 ```sh
 $ npm i learnpack -g
 ```
 
-2) Instala el node compiler para learnpack y  el jest package para los unit testing:
+2) Instala el node compiler para learnpack y el jest package para los unit testing:
 
 ```sh
 $ learnpack plugins:install learnpack-node && npm i jest@24.8.0 -g
