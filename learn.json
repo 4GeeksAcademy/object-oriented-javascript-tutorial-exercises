@@ -8,9 +8,8 @@
     "title": "Object Oriented Programing In Javascript",
     "slug": "object-oriented-programing-in-javascript",
     "skills": ["algorithms"],
-    "config": {
         "editor": {
-            "version": "1.0.72"
+            "version": "1.0.73"
         }
-    }
+    
 }
