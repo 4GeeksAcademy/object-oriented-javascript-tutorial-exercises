@@ -1,3 +1,5 @@
+<!-- hide -->
+
 # Object Oriented Programing in Javascript
 
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises/3dc2f03468e51b5ae5c78321b6131be164c85938/badge.svg"></a>
@@ -7,6 +9,10 @@
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/javascript-arrays-exercises-tutorial)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
+
+<!-- endhide -->
+Learn and practice how to work with objects in Javascript.
+<!-- hide -->
 
 This tutorial its part of a bigger group of tutorials about web development, this repository focuses only in Object Oriented Programming.
 
@@ -24,6 +30,8 @@ I strongly recommend doing this tutorials in this order:
 ## One click installation:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises.git)
+
+<!-- endhide -->
 
 ## Local Installation
 
