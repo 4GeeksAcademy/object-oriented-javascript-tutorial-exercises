@@ -1,3 +1,4 @@
+<!-- hide -->
 # Programación orienada a objetos en Javascript
 
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises/3dc2f03468e51b5ae5c78321b6131be164c85938/badge.svg"></a>
@@ -7,7 +8,9 @@
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/javascript-arrays-exercises-tutorial)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
-
+<!-- endhide -->
+Aprende y practica programación orientada a objetos con Javascript.
+<!-- hide -->
 Este tutorial es parte de un grupo más grande de tutoriales sobre desarrollo web, este repositorio se enfoca solo en Programación Orientada a Objetos.
 
 #### Antes de empezar...Algunos tutoriales realcionados
@@ -24,7 +27,7 @@ Puedes [comenzar el tutorial en línea](#instalación-en-un-solo-clic) en solo 1
 ## Instalación en un solo clic:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises.git)
-
+<!-- endhide -->
 ## Instalación local
 
 1) Asegúrate de instalar [learnpack](https://github.com/learnpack/learnpack-cli) y `node.js` version 14+. Este es el comando para instalar learnpack:
