@@ -11,7 +11,13 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 <!-- endhide -->
-Learn and practice how to work with objects in Javascript.
+During these exercises, we will explore object-oriented programming concepts and how to apply them using Javascript. Sadly, the javascript object implementations do not have concepts like Method Overriding, Polymorphism, Private properties, etc. But I will make a reasonable effort to use all the available object-oriented features:
+
+1. Create new instances.
+2. Create a class.
+3. Define your first property.
+4. The constructor and constructor parameters.
+5. Some practical class examples.
 <!-- hide -->
 
 This tutorial its part of a bigger group of tutorials about web development, this repository focuses only in Object Oriented Programming.
