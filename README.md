@@ -36,6 +36,7 @@ I strongly recommend doing this tutorials in this order:
 ## Local Installation
 
 1) Make sure you have [learnpack](https://github.com/learnpack/learnpack-cli) installed and `node.js` version 14+. This is the command to install learnpack
+
 ```sh
 $ npm i learnpack -g
 ```
