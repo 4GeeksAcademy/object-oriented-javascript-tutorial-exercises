@@ -1,6 +1,6 @@
 # `03` Create a new class
 
-To create a new lass in Javascript, we have to write the following code:
+To create a new class in Javascript, we have to write the following code:
 
 ```js
 class ClassName{
