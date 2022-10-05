@@ -1,5 +1,5 @@
 <!-- hide -->
-# Programación orienada a objetos en Javascript
+# Programación orienada a objetos en Javascript
 
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises/3dc2f03468e51b5ae5c78321b6131be164c85938/badge.svg"></a>
 
