@@ -7,8 +7,8 @@
     "description": "Learn how objects and classes work and why they are so usefull n coding.",
     "title": "Object Oriented Programing In Javascript",
     "slug": "object-oriented-programing-in-javascript",
-    "video-solutions": false,
-    "bugs-link": "https://github.com/learnpack/learnpack/issues/new",
+    "videoSolutions": false,
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "skills": ["algorithms"],
         "editor": {
             "version": "1.0.73"
