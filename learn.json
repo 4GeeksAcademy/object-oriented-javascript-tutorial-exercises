@@ -6,6 +6,7 @@
     "preview": "https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises/blob/master/.learn/assets/preview.png?raw=true",
     "description": "Learn how objects and classes work and why they are so usefull n coding.",
     "title": "Object Oriented Programing In Javascript",
+    "projectType": "tutorial",
     "slug": "object-oriented-programing-in-javascript",
     "videoSolutions": false,
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
