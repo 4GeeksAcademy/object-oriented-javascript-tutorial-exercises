@@ -11,7 +11,7 @@
     "title": {
         "us": "Object Oriented Programing In Javascript",
         "es": "Programación Orientada a Objetos en Javascript"
-    }.
+    },
     "slug": "object-oriented-programing-in-javascript",
     "videoSolutions": false,
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
