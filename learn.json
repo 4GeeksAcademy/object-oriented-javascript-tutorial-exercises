@@ -4,6 +4,7 @@
     "repository": "https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises",
     "duration": 4,
     "preview": "https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises/blob/master/.learn/assets/preview.png?raw=true",
+    "projectType": "tutorial",
     "description": {
         "us": "Learn how objects and classes work and why they are so usefull in coding.",
         "es": "Aprende como funcionan los objetos y clases, y por qué son tan útiles en programación."
