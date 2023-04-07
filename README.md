@@ -35,7 +35,7 @@ I strongly recommend doing this tutorials in this order:
 
 ## One click installation (recommended):
 
-You can open these exercises in just a few seconds by cliking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/css-layouts-tutorial-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises.git).
+You can open these exercises in just a few seconds by cliking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/object-oriented-javascript-tutorial-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises).
 
 > Once you have VSCode open, if exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
