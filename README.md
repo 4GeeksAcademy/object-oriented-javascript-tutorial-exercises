@@ -18,8 +18,8 @@ During these exercises, we will explore object-oriented programming concepts and
 3. Define your first property.
 4. The constructor and constructor parameters.
 5. Some practical class examples.
-<!-- hide -->
 
+<!-- hide -->
 This tutorial its part of a bigger group of tutorials about web development, this repository focuses only in Object Oriented Programming.
 
 You can [start the tutorial online](#one-click-installation) in just 10 seconds or [download the source files](#local-installation) to do it locally.
@@ -33,11 +33,11 @@ I strongly recommend doing this tutorials in this order:
 5. [Using events & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
 6. [Object Oriented Programming](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises) ← you are here now 🔥
 
-## One click installation:
+## One click installation (recommended):
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises.git)
+You can open these exercises in just a few seconds by cliking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/object-oriented-javascript-tutorial-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises).
 
-<!-- endhide -->
+> Once you have VSCode open, if exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
 ## Local Installation
 
@@ -58,8 +58,10 @@ $ learnpack plugins:install learnpack-node && npm i jest@24.8.0 -g
 4) Start the tutorial/exercises by running the following command from the root of the project:
 
 ```sh
-$ learnpack run
+$ learnpack start
 ```
+
+<!-- endhide -->
 
 ## How are the exercises organized?
 

@@ -24,9 +24,12 @@ Este tutorial es parte de un grupo más grande de tutoriales sobre desarrollo we
 
 Puedes [comenzar el tutorial en línea](#instalación-en-un-solo-clic) en solo 10 segundos o [descargar los archivos fuente](#instalación-local) para hacerlo localmente.
 
-## Instalación en un solo clic:
+## Instalación en un clic (recomendado)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises.git)
+Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/object-oriented-javascript-tutorial-exercises) (recomendado) o [Abrir en Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises).
+
+> Una vez ya tengas abirto VSCode los ejercicios deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
+> 
 <!-- endhide -->
 ## Instalación local
 
