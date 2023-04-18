@@ -11,6 +11,9 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 <!-- endhide -->
+ 
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises/blob/master/README.es.md) :es:*
+
 During these exercises, we will explore object-oriented programming concepts and how to apply them using Javascript. Sadly, the javascript object implementations do not have concepts like Method Overriding, Polymorphism, Private properties, etc. But I will make a reasonable effort to use all the available object-oriented features:
 
 1. Create new instances.
@@ -73,6 +76,8 @@ Each exercise is a small react application containing the following files:
 2. **README.md:** contains exercise instructions.
 3. **test.js:** you don't have to open this file, it contains the testing script for the exercise.
 
+> Note: These exercises have automatic grading but it is somewhat rigid, I recommend you ignore the tests, consider them as a recommendation or you could get frustrated.
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
@@ -82,3 +87,5 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, contribution: (coder), (translation) 🌎
 
 This project follows the[all-contributors](https://github.com/kentcdodds/all-contributors) specification.Contributions of any kind are welcome!
+
+This and many other exercises are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sánchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and  [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).

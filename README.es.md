@@ -9,8 +9,17 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 <!-- endhide -->
-Aprende y practica programación orientada a objetos con Javascript.
+
+Durante estos ejercicios, exploraremos los conceptos de programación orientada a objetos y cómo aplicarlos usando Javascript. Lamentablemente, las implementaciones de objetos de javascript no tienen conceptos como Sobreescritura de métodos, Polimorfismo, Propiedades privadas, etc. Pero haré un esfuerzo razonable para usar todas las características orientadas a objetos disponibles:
+
+1. Crear nuevas instancias.
+2. Crear una clase.
+3. Definir tu primera propiedad.
+4. El constructor y los parámetros del constructor.
+5. Algunos ejemplos prácticos de clase.
+
 <!-- hide -->
+
 Este tutorial es parte de un grupo más grande de tutoriales sobre desarrollo web, este repositorio se enfoca solo en Programación Orientada a Objetos.
 
 #### Antes de empezar...Algunos tutoriales realcionados
@@ -20,7 +29,7 @@ Este tutorial es parte de un grupo más grande de tutoriales sobre desarrollo we
 3. [Introducción a Javascript](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
 4. [Introducción a The DOM](https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises)
 5. [Utilizando eventos & The DOM](https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises)
-6. [Programación Orientada a Objetos](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises) ← you are here now 🔥
+6. [Programación Orientada a Objetos](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises) ← estás aquí ahora 🔥
 
 Puedes [comenzar el tutorial en línea](#instalación-en-un-solo-clic) en solo 10 segundos o [descargar los archivos fuente](#instalación-local) para hacerlo localmente.
 
@@ -29,8 +38,7 @@ Puedes [comenzar el tutorial en línea](#instalación-en-un-solo-clic) en solo 1
 Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/object-oriented-javascript-tutorial-exercises) (recomendado) o [Abrir en Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises).
 
 > Una vez ya tengas abirto VSCode los ejercicios deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
-> 
-<!-- endhide -->
+
 ## Instalación local
 
 1) Asegúrate de instalar [learnpack](https://github.com/learnpack/learnpack-cli) y `node.js` version 14+. Este es el comando para instalar learnpack:
@@ -53,16 +61,17 @@ $ learnpack plugins:install learnpack-node && npm i jest@24.8.0 -g
 $ learnpack run
 ```
 
-Nota: Estos ejercicios tienen calificación automática pero es un tanto rígida, te recomiendo ignorar los tests, considéralos como una recomendación o podrías frustrarte.
+<!-- endhide -->
 
 ## ¿Cómo están organizados los ejercicios?
 
 Cada ejercicio es una pequeña aplicación de react que contiene los siguientes archivos:
-|    |    |
-|:---|:---|
-| **app.js** | Representa el archivo javascript de entrada que ejecutará la computadora ||
-| **README.md** | Contiene las instrucciones de ejercicio |
-| **test.js** | Contiene el script del test para el ejercicio (no es necesario que abras este archivo) |
+
+1. **app.js:** Representa el archivo javascript de entrada que ejecutará la computadora.
+2. **README.md:** Contiene las instrucciones de ejercicio.
+3. **test.js:** Contiene el script del test para el ejercicio (no es necesario que abras este archivo).
+
+> Nota: Estos ejercicios tienen calificación automática pero es un tanto rígida, te recomiendo ignorar los tests, considéralos como una recomendación o podrías frustrarte.
 
 ## Colaboradores
  
@@ -73,3 +82,5 @@ Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds
 2. [Paolo (plucodev)](https://github.com/plucodev), contribución: (bug reports) 🐛, (programador), (traducción) 🌎
 
 Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors). ¡Todas las contribuciones son bienvenidas!
+
+Este y otros ejercicios son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
