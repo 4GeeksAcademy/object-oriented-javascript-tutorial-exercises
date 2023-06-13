@@ -10,10 +10,10 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-<!-- endhide -->
- 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises/blob/master/README.es.md) :es:*
 
+<!-- endhide -->
+ 
 During these exercises, we will explore object-oriented programming concepts and how to apply them using Javascript. Sadly, the javascript object implementations do not have concepts like Method Overriding, Polymorphism, Private properties, etc. But I will make a reasonable effort to use all the available object-oriented features:
 
 1. Create new instances.
@@ -43,6 +43,8 @@ You can open these exercises in just a few seconds by cliking: [Open in Codespac
 > Once you have VSCode open, if exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
 ## Local Installation
+
+Clone the repository in your local environment and follow the steps below
 
 1) Make sure you have [learnpack](https://github.com/learnpack/learnpack-cli) installed and `node.js` version 14+. This is the command to install learnpack.  
 
