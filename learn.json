@@ -16,7 +16,10 @@
     "slug": "object-oriented-programing-in-javascript",
     "videoSolutions": false,
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-    "skills": ["algorithms"]
+    "skills": ["algorithms"],
+    "editor": {
+        "version": "3.1.9"
+    }
         
     
 }
