@@ -1,15 +1,13 @@
-# Bienvenido a la Programación orientada a objetos (en JS)
+# Bienvenido a la Programación Orientada a Objetos (en JS)
 
-Veremos los siguientes conceptos
+En este tutorial, nos adentraremos en el mundo de la Programación Orientada a Objetos (OOP), un paradigma de programación fundamental que estructura el diseño del software alrededor de datos, o objetos, en lugar de funciones y lógica. OOP permite la creación de código modular, reutilizable y más manejable, lo que lo convierte en un concepto vital en la programación moderna.
 
-1. Cómo crear nuevos objetos.
+Cubriremos los siguientes temas:
 
-2. Cómo definir una clase.
+1. **Cómo crear nuevos objetos** - Aprende las diversas formas de instanciar nuevos objetos en JavaScript.
+2. **Cómo definir una clase** - Entiende la sintaxis y estructura de definir una clase en JavaScript.
+3. **Propiedades de clase** - Explora cómo definir y usar propiedades dentro de una clase para almacenar información.
+4. **El constructor de clase** - Conoce el método constructor, una función especial que se llama al crear una instancia de una clase.
+5. **Practicar con objetos** - Aplica los conceptos aprendidos a través de ejercicios prácticos para reforzar tu comprensión.
 
-3. Propiedades de las clases.
-
-4. La clase `constructor`.
-
-5. Practicaremos con objetos.
-
-Haz clic en el botón `next →` en la esquina superior derecha para continuar.
+Haz clic en el botón `next →` en la parte superior derecha para continuar.

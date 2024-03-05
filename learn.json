@@ -17,8 +17,9 @@
     "videoSolutions": false,
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "skills": ["algorithms"],
-        "editor": {
-            "version": "1.0.73"
-        }
+    "editor": {
+        "version": "3.1.9"
+    }
+        
     
 }
