@@ -52,15 +52,9 @@ Clone the repository in your local environment and follow the steps below
 $ npm i learnpack -g
 ```
 
-2) Install the node compiler for learnpack and jest package for unit testing:
+2) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory "exercises" that contains all the exercises within.
 
-```sh
-$ learnpack plugins:install learnpack-node && npm i jest@24.8.0 -g
-```
-
-3) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory "exercises" that contains all the exercises within.
-
-4) Start the tutorial/exercises by running the following command from the root of the project:
+3) Start the tutorial/exercises by running the following command from the root of the project:
 
 ```sh
 $ learnpack start
