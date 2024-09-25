@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=QmuOaWWq1h4"
+---
+
 # `03` Creando un nueva clase
 
 Para crear una nueva clase en Javascript tenemos que escribir el siguiente código:

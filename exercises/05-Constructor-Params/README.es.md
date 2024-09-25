@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=Z9Gli06fwOk"
+---
+
 # `05` Constructor Params
 
 Cada clase tiene una función mágica llamada `constructor`a la cual llamamos cada vez que se crea una nueva instancia de esa clase.

@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=HhZ_RmhhueA"
+---
+
 # `04` Define tus primera propiedades
 
 Este código tiene una clase definida `Person` que tiene ninguna propiedad  o función; para definir una propiedad tienes que usar la siguiente sintaxis:

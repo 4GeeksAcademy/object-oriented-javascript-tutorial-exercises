@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=88lnilQ6_sI"
+---
+
 # `07` Print with clase `Printer`
 
 La clase `Printer` tiene una función `printerTest`    (tal y como la tienen las impresoras en vida real).

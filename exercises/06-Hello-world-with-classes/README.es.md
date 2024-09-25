@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=VtP_4EMohWI"
+---
+
 # `06` Hello world con classes
 
 Para definir una nueva clase, debes usar la siguiente sintaxis:

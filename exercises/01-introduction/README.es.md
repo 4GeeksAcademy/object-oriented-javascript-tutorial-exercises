@@ -1,3 +1,7 @@
+---
+intro: "https://www.youtube.com/watch?v=8cPO4OdEde4"
+---
+
 # Bienvenido a la Programación Orientada a Objetos (en JS)
 
 En este tutorial, nos adentraremos en el mundo de la Programación Orientada a Objetos (OOP), un paradigma de programación fundamental que estructura el diseño del software alrededor de datos, o objetos, en lugar de funciones y lógica. OOP permite la creación de código modular, reutilizable y más manejable, lo que lo convierte en un concepto vital en la programación moderna.

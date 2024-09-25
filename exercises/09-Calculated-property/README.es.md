@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=8l41G31XXRM"
+---
+
 # `09` Propiedades calculadas
 
 Algunas de las propiedades de la clase deben calcularse y solo debes ejecutar un pequeño algoritmo para obtener su valor. 

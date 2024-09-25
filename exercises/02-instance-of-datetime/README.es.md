@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=LXjYBR_apio"
+---
+
 # `02` Crea una instancia `DateTime` (FechaHora)
 
 Javascript tiene algunas clases predefinidas que puedes usar cuando lo desees. Una de estas clases es la clase `DateTime`, que fue creada para ayudar a los desarrollado@res a trabajar con fechas y horas.

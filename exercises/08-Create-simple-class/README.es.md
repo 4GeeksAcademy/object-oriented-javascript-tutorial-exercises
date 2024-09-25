@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=AkeSbKYhmVw"
+---
+
 ## `08` Crea una clase simple
 
 En este momento, hay clase `Couter`declarada que contiene 4 funciones:
