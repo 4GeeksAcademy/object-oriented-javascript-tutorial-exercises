@@ -16,6 +16,7 @@
     },
     "slug": "object-oriented-programing-in-javascript",
     "videoSolutions": false,
+    "technologies": ["Javascript", "HTML and CSS", "React.js"],
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "skills": ["algorithms"],
     "editor": {
