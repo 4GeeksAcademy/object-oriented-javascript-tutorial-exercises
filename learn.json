@@ -5,9 +5,10 @@
     "duration": 4,
     "preview": "https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises/blob/master/.learn/assets/preview.png?raw=true",
     "projectType": "tutorial",
+    "autoPlay": "true",
     "description": {
-        "us": "Learn how objects and classes work and why they are so usefull in coding.",
-        "es": "Aprende como funcionan los objetos y clases, y por qué son tan útiles en programación."
+        "us": "Learn object-oriented programming (OOP) in JavaScript by creating classes, instances, and properties. Explore how to define constructors, apply methods, and work with practical class examples. Understand the fundamentals of OOP, including encapsulation and basic object structures to enhance your coding skills.",
+        "es": "Aprende programación orientada a objetos (OOP) en JavaScript creando clases, instancias y propiedades. Explora cómo definir constructores, aplicar métodos y trabajar con ejemplos prácticos de clases. Entiende los fundamentos de OOP, incluyendo la encapsulación y las estructuras básicas de objetos para mejorar tus habilidades de programación."
     },
     "title": {
         "us": "Object Oriented Programing In Javascript",
@@ -15,6 +16,7 @@
     },
     "slug": "object-oriented-programing-in-javascript",
     "videoSolutions": false,
+    "technologies": ["Javascript", "HTML and CSS", "React.js"],
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "skills": ["algorithms"],
     "editor": {
